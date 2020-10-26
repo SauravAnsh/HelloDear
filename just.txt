@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is A6BC-5A8C
-
- Directory of C:\Users\saura\Desktop\Balena
-
-10/26/2020  09:05 AM    <DIR>          .
-10/26/2020  09:05 AM    <DIR>          ..
-10/26/2020  09:05 AM                 0 just.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  90,840,219,648 bytes free
+first change
